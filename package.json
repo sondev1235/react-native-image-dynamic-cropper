@@ -1,0 +1,33 @@
+{
+  "name": "react-native-image-dynamic-cropper",
+  "title": "React Native Image Dynamic Cropper",
+  "version": "1.0.7",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-image-dynamic-cropper.git",
+    "baseUrl": "https://github.com/github_account/react-native-image-dynamic-cropper"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Min",
+    "email": "min@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
